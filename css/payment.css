@@ -1,0 +1,17 @@
+body {
+    background-image: url(../img/bg3.png);
+    font-family: "Anta", sans-serif;
+    color: white;
+    margin: 20px;
+}
+h1 {
+    color: #0066cc;
+}
+ol {
+    list-style-type: decimal;
+}
+.anta-regular {
+font-family: "Anta", sans-serif;
+font-weight: 400;
+font-style: normal;
+}
